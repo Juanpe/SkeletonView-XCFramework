@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SkeletonView",
-            url: "https://cdn.juanpecatalan.com/SkeletonView.xcframework.zip",
+            url: "https://cdn.juanpecatalan.com/SkeletonView.xcframework_1.30.0.zip",
             checksum: "c00e72efa25c0af3ae50646f5f969b0c511be4da6023f68154ece63a0c249b99"
         )
     ]
