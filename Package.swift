@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SkeletonView",
-            url: "https://github.com/Juanpe/SkeletonView-XCFramework/releases/download/1.30.2/SkeletonView.xcframework.zip",
-            checksum: "d2399f9bd3d95c3585f2098b152d2704cd90787b8c1e44f4a0e62ad9a0992794"
+            url: "https://github.com/Juanpe/SkeletonView-XCFramework/releases/download/1.30.3/SkeletonView.xcframework.zip",
+            checksum: "76457178a5a5d0d3bca78a5adc7bbec7ee5f13b7c375aedeffbc74e2a7fe7277"
         )
     ]
 )
